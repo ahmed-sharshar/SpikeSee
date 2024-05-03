@@ -1,3 +1,5 @@
+
+https://github.com/ahmed-sharshar/SpikeSee/assets/61471857/8759e3c8-6b02-488a-a677-476f3755e9d3
 # SpikeSee
 
 ## 🚀 Activity Recognition Data Collection Project
@@ -70,12 +72,16 @@ https://drive.google.com/drive/folders/1mVmzOhlZhJDnnoVXW05AHccSj_rDxJou?usp=sha
 
 🎥 RGB Video
 
-https://github.com/ahmed-sharshar/SpikeSee/assets/61471857/27f33d43-21e5-4bd9-971e-e7b174c1aa9b
+
+https://github.com/ahmed-sharshar/SpikeSee/assets/61471857/15a2e51a-013f-4bca-9828-ba8d4044e22f
+
 
 
 🌡️ Thermal Video
 
-https://github.com/ahmed-sharshar/SpikeSee/assets/61471857/b3f3d6f8-69ad-4a78-923d-aaaebcc4f4d6
+https://github.com/ahmed-sharshar/SpikeSee/assets/61471857/51412bcb-6e1d-44bc-9763-48f3fa83e2c7
+
+
 
 
 
