@@ -1,5 +1,4 @@
 
-https://github.com/ahmed-sharshar/SpikeSee/assets/61471857/8759e3c8-6b02-488a-a677-476f3755e9d3
 # SpikeSee
 
 ## 🚀 Activity Recognition Data Collection Project
