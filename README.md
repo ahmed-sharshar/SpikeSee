@@ -62,6 +62,19 @@ All recordings are conducted in a controlled environment equipped with both natu
 
 The data collected will be invaluable for research and development in fields such as motion analysis, activity recognition, and beyond. We encourage contributors and researchers to utilize this dataset to explore innovative solutions and applications.
 
-https://github.com/ahmed-sharshar/SpikeSee/assets/61471857/45d1d874-4ade-4697-a31d-510e43493dfa
+## Data Sample
+Here are some samples from the collected data, as the full videos are heavy and can not be uploaded here, you can find samples for the full video through this link:
+
+https://drive.google.com/drive/folders/1mVmzOhlZhJDnnoVXW05AHccSj_rDxJou?usp=sharing
+
+
+🎥 RGB Video
+
+https://github.com/ahmed-sharshar/SpikeSee/assets/61471857/6f02aabb-401c-40f8-90e3-5bd1c14fc29a
+
+🌡️ Thermal Video
+
+https://github.com/ahmed-sharshar/SpikeSee/assets/61471857/6f7497cb-7310-4d11-8f20-e6258c3972ec
+
 
 
