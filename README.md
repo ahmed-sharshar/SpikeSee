@@ -6,6 +6,7 @@ Welcome to our data collection project repository! This initiative is designed t
 Participants perform each activity for precisely 10 seconds, resulting in a complete session duration of 3 minutes. Each participant completes the session twice, totaling no more than 15 minutes per volunteer. The activities, in the order they are performed, include:
 
 🏃 Running in Place
+
 🚶 Walking
 🏃‍♂️ Jogging
 👏 Clapping
