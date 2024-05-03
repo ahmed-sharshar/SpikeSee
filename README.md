@@ -70,11 +70,14 @@ https://drive.google.com/drive/folders/1mVmzOhlZhJDnnoVXW05AHccSj_rDxJou?usp=sha
 
 🎥 RGB Video
 
-https://github.com/ahmed-sharshar/SpikeSee/assets/61471857/6f02aabb-401c-40f8-90e3-5bd1c14fc29a
+https://github.com/ahmed-sharshar/SpikeSee/assets/61471857/27f33d43-21e5-4bd9-971e-e7b174c1aa9b
+
 
 🌡️ Thermal Video
 
-https://github.com/ahmed-sharshar/SpikeSee/assets/61471857/6f7497cb-7310-4d11-8f20-e6258c3972ec
+https://github.com/ahmed-sharshar/SpikeSee/assets/61471857/b3f3d6f8-69ad-4a78-923d-aaaebcc4f4d6
+
+
 
 
 
