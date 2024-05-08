@@ -53,7 +53,7 @@ Data is meticulously captured using three synchronized camera types to ensure co
 
 🌡️ Thermal Camera
 
-🤖 SNN Camera (Spiking Neural Network camera)
+🤖 Spiking Camera
 
 ## 🏢 Environment
 
