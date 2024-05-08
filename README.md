@@ -81,6 +81,10 @@ https://github.com/ahmed-sharshar/SpikeSee/assets/61471857/15a2e51a-013f-4bca-98
 https://github.com/ahmed-sharshar/SpikeSee/assets/61471857/51412bcb-6e1d-44bc-9763-48f3fa83e2c7
 
 
+🤖 Spiking Video
+
+
+https://github.com/ahmed-sharshar/SpikeSee/assets/61471857/034a4080-f16e-4d5d-9c8b-8b93343fea87
 
 
 
